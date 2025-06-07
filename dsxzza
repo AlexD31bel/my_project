@@ -1,0 +1,29 @@
+[33mcommit 9eac6083123ff9523073e17c80d7fa50c6405b43[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mtesting[m[33m)[m
+Author: Alex Danilets <Danilets@yandex.ru>
+Date:   Sat Jun 7 12:04:11 2025 +0300
+
+    Add os
+
+[33mcommit 2fddf5b50f1b6dd98bb6cd52cf521cd3e8b521f1[m
+Author: Alex Danilets <Danilets@yandex.ru>
+Date:   Sat Jun 7 12:00:20 2025 +0300
+
+    Add for
+
+[33mcommit c49c3155426c27ede74393fead0fc5366c2e0c5d[m
+Author: Alex Danilets <Danilets@yandex.ru>
+Date:   Sat Jun 7 11:55:35 2025 +0300
+
+    Update. Create testing
+
+[33mcommit 23e6e82c6059af1f2993bb8ec54f395d4274821c[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Alex Danilets <Danilets@yandex.ru>
+Date:   Fri Jun 6 11:23:23 2025 +0300
+
+    Update Hello_git.py
+
+[33mcommit c7dc4bd7f48647a72b560d41c3d840ca47d731f2[m
+Author: Alex Danilets <Danilets@yandex.ru>
+Date:   Fri Jun 6 11:17:10 2025 +0300
+
+    Create Hello_git.py
